@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Farmers - Aquaculture Management",
+  "description": "Comprehensive aquaculture management platform providing verified seed prices, market rate tracking, seasonal fish and shrimp disease advisories, and farmer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
